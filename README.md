@@ -1,6 +1,6 @@
 # Documenten van CML werkgroep fijnstof
 
-## Project 1
+## workshop 1
 SDS011
 
 ## Project 2
