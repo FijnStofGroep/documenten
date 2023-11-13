@@ -1,1 +1,1 @@
-workshop 2023
+Publieke documenten van de workshop 2023.
