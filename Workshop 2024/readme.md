@@ -1,1 +1,1 @@
-workshop 2023
+workshop 2024
